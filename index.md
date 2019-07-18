@@ -88,6 +88,10 @@ locations:
  <a href="{{ site.training_site }}">curriculum</a>.
 </p>
 
+<p>
+  Note this event is open only to pre-registered participants.
+</p>
+
 <!--
   LOCATION
 
